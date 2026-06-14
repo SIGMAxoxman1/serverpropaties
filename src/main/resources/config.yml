@@ -1,0 +1,14 @@
+# ServerPropsFix Configuration
+# Add any server.properties key you want to force here
+# The plugin will patch server.properties BEFORE the server loads
+
+overrides:
+  server-ip: "163.5.201.11"
+  enable-query: "false"
+  query.port: "25565"
+  # أضف أي حاجة تانية هنا بنفس الطريقة:
+  # motd: "My Server"
+  # max-players: "20"
+  # difficulty: "normal"
+  # pvp: "true"
+  # online-mode: "true"

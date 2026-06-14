@@ -1,0 +1,6 @@
+name: ServerPropsFix
+version: '1.0.0'
+main: dev.serverpropfix.ServerPropsFix
+api-version: '1.21'
+description: Patches server.properties before server loads - overrides Pterodactyl panel changes
+authors: [ServerPropsFix]
